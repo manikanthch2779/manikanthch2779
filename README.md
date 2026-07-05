@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+![GitHub Sats](https://github-readme-stats.vercel.app/api?username=manikanthch2779&show_icons=true)
 <!--
 **manikanthch2779/manikanthch2779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
