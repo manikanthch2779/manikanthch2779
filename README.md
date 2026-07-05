@@ -1,5 +1,5 @@
 # Hi there 👋
-![My GitHub Stats](./stats.svg)
+![My GitHub Stats](./profile/stats.svg)
 <!--
 **manikanthch2779/manikanthch2779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
